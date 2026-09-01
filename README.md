@@ -1,6 +1,0 @@
-# IMS - INSTITUTE MANAGEMENT SYSTEM
-
-
-
-
-##########
